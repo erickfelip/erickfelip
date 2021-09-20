@@ -3,3 +3,5 @@
 - 🌱 I’m looking to collaborate on front-end area.
 
 
+-Expo project(Calculadora de IMC)=> https://expo.dev/@erickfelip/my-project 
+
