@@ -15,6 +15,5 @@
 
 [![Erick GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickfelip&show_icons=true)](https://github.com/erickfelip)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfelip&show_icons=true)
-<hr>
+
 
