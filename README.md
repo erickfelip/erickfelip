@@ -1,14 +1,23 @@
  👋 Hi, I’m @erickfelip
  
- 👨‍💻 I’m currently learning javascript + react/react native.
+ 👨‍💻 I’m currently learning javascript,react and react native.
  
  🤝 I’m looking to collaborate on front-end area.
 
+## **My Social Networks**
 
-💬 Expo project(Calculadora de IMC)=> https://expo.dev/@erickfelip/my-project 
-
+<a href="https://www.linkedin.com/in/erick-felipe-141311215//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="erickfelipe2010@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
 
 <h3 align="left">🔭 Learning:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p><div>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
 ![Erick Activity Graph](https://activity-graph.herokuapp.com/graph?username=erickfelip&theme=react-dark)
-</div>
+ <p align="left">
+  <a href="https://github.com/erickfelip">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=erickfelip&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfelip&layout=compact&langs_count=7&theme=github_dark"/> 
+   </p>
+
