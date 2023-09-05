@@ -3,8 +3,7 @@
 ## **My Social Networks**
 
 <a href="https://www.linkedin.com/in/erick-felipe-141311215//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto: erickfelipe2010@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+
   </a> 
 
 <h3 align="left">🔭 Stacks:</h3>
